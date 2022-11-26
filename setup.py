@@ -17,7 +17,7 @@ from setuptools import setup, find_packages
 
 readme = open('README.md').read()
 
-VERSION = '2022.11.26.1'
+VERSION = '2022.11.26.2'
 
 setup(
     # Metadata
